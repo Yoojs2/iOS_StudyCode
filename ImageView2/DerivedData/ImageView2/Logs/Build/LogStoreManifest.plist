@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>1804BE47-C64A-474B-BD93-FDD31668C19C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1804BE47-C64A-474B-BD93-FDD31668C19C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageView2</string>
+			<key>timeStartedRecording</key>
+			<real>773129769.43146098</real>
+			<key>timeStoppedRecording</key>
+			<real>773129770.53858197</real>
+			<key>title</key>
+			<string>Build ImageView2</string>
+			<key>uniqueIdentifier</key>
+			<string>1804BE47-C64A-474B-BD93-FDD31668C19C</string>
+		</dict>
+		<key>3ED78759-A50B-4ECC-B797-224D2B404708</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3ED78759-A50B-4ECC-B797-224D2B404708.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageView2</string>
+			<key>timeStartedRecording</key>
+			<real>773129532.83296394</real>
+			<key>timeStoppedRecording</key>
+			<real>773129538.17324102</real>
+			<key>title</key>
+			<string>Build ImageView2</string>
+			<key>uniqueIdentifier</key>
+			<string>3ED78759-A50B-4ECC-B797-224D2B404708</string>
+		</dict>
+		<key>43E93022-21FC-4DB6-973E-142C4B5968F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43E93022-21FC-4DB6-973E-142C4B5968F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageView2</string>
+			<key>timeStartedRecording</key>
+			<real>773129955.58109498</real>
+			<key>timeStoppedRecording</key>
+			<real>773129955.73213005</real>
+			<key>title</key>
+			<string>Build ImageView2</string>
+			<key>uniqueIdentifier</key>
+			<string>43E93022-21FC-4DB6-973E-142C4B5968F6</string>
+		</dict>
+		<key>9F4CEB2C-EB76-4407-B67B-61E49CA96983</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F4CEB2C-EB76-4407-B67B-61E49CA96983.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageView2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageView2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageView2</string>
+			<key>timeStartedRecording</key>
+			<real>773130087.82555103</real>
+			<key>timeStoppedRecording</key>
+			<real>773130088.80663395</real>
+			<key>title</key>
+			<string>Build ImageView2</string>
+			<key>uniqueIdentifier</key>
+			<string>9F4CEB2C-EB76-4407-B67B-61E49CA96983</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
