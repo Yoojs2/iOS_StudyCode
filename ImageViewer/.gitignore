@@ -1,0 +1,31 @@
+# 빌드 결과물
+build/
+DerivedData/
+*.xcarchive
+
+# 의존성
+Pods/
+Carthage/Build/
+.build/
+.swiftpm/
+
+# Xcode 개인 설정
+xcuserdata/
+*.xcuserstate
+
+# macOS 시스템 파일
+.DS_Store
+
+# 디버그 심볼
+*.dSYM
+*.dSYM.zip
+
+# 이미지 파일 무시
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.heic
