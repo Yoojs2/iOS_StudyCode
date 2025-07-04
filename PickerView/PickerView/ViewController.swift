@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController,UIPickerViewDelegate, UIPickerViewDataSource {
 
     let MAX_ARRAY_NUM = 7
-    let PICKER_VIEW_COLUMN = 1
+    let PICKER_VIEW_COLUMN = 2
     var imageFileName = ["1.PNG", "2.PNG", "3.PNG", "4.PNG", "5.PNG", "6.PNG", "7.PNG"]
     var imageArray = [UIImage?]()
     
@@ -61,8 +61,15 @@ class ViewController: UIViewController,UIPickerViewDelegate, UIPickerViewDataSou
     
     //룰렛을 선택했을때 실행 됨
     func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
-        lbImageFileName.text = imageFileName[row]
-        imageView.image = imageArray[row]
+        
+        if (component == 0){
+            lbImageFileName.text = imageFileName[row]
+        }
+        
+        else{
+            imageView.image = imageArray[row]
+        }
+        
     }
     
     //피커뷰의 높이를 전달한다
