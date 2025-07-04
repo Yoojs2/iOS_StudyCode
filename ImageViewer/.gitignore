@@ -1,31 +1,77 @@
-# 빌드 결과물
-build/
+# Xcode 빌드
 DerivedData/
+build/
+
+# User-specific settings
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# iOS 실행 로그, 디버그 캐시
+*.log
+*.swp
+*.dat
+*.tmp
+
+# Simulator files
+*.simruntime/
+*.simdevice/
+
+# Swift Package Manager
+.swiftpm
+.build/
+Packages/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Archives
 *.xcarchive
 
-# 의존성
-Pods/
-Carthage/Build/
-.build/
-.swiftpm/
-
-# Xcode 개인 설정
-xcuserdata/
-*.xcuserstate
-
-# macOS 시스템 파일
-.DS_Store
-
-# 디버그 심볼
-*.dSYM
+# App Thinning
+*.ipa
 *.dSYM.zip
+*.dSYM
 
-# 이미지 파일 무시
+# Images or media not tracked
 *.png
 *.jpg
 *.jpeg
-*.gif
-*.bmp
-*.tiff
-*.webp
 *.heic
+*.gif
+*.mp4
+*.mov
+*.pdf
+*.webp
+
+# Interface Builder files not in use
+*.storyboardc
+*.xib/
+
+# macOS Finder files
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Xcode Preview canvas data
+CanvasPreviews/
+
+# SwiftLint cache
+.swiftlint.cache
