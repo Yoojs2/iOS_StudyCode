@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>0327F1FB-8C79-48E9-808B-340F3D7AFB24</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0327F1FB-8C79-48E9-808B-340F3D7AFB24.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>773334478.43255699</real>
+			<key>timeStoppedRecording</key>
+			<real>773334480.29354703</real>
+			<key>title</key>
+			<string>Build PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>0327F1FB-8C79-48E9-808B-340F3D7AFB24</string>
+		</dict>
 		<key>1FAC8D46-A609-49FA-ACF5-AE4F36E1F9A4</key>
 		<dict>
 			<key>className</key>

@@ -49,15 +49,15 @@ fastlane/test_output/
 *.dSYM
 
 # Images or media not tracked
-*.png
-*.jpg
-*.jpeg
-*.heic
-*.gif
-*.mp4
-*.mov
-*.pdf
-*.webp
+#*.png
+#*.jpg
+#*.jpeg
+#*.heic
+#*.gif
+#*.mp4
+#*.mov
+#*.pdf
+#*.webp
 
 # Interface Builder files not in use
 *.storyboardc

@@ -128,6 +128,67 @@
 			<key>uniqueIdentifier</key>
 			<string>650979EA-BE76-4C0B-B3E0-9EB23CB00BE8</string>
 		</dict>
+		<key>7B68010F-0973-4D00-910A-BF2645D6E034</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0327F1FB-8C79-48E9-808B-340F3D7AFB24</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-PickerView-2025.07.05_00-07-58-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PickerView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PickerView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run PickerView</string>
+			<key>timeStartedRecording</key>
+			<real>773334478.43238401</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run PickerView</string>
+			<key>uniqueIdentifier</key>
+			<string>7B68010F-0973-4D00-910A-BF2645D6E034</string>
+		</dict>
 		<key>83DDB9F2-54BB-4D4F-BAE0-2F143DF8AD58</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
