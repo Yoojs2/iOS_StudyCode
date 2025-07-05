@@ -52,4 +52,12 @@ doWork(completion: { (finised) -> () in
 
 
 
+print("----------------------")
+
+var color : [String] = ["빨간색","노란색", "파란색", "하얀색", "검정색"]
+
+for c in color{
+    print(c)
+}
+
 

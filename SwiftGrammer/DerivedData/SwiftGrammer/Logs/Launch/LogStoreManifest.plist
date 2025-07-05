@@ -6,67 +6,6 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>49B61BA1-1A4C-4DF0-B2ED-85636481A9C7</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>36689AB9-C885-4FC5-8FC6-A99EDEA34B51</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-SwiftGrammer-2025.07.05_00-58-27-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>SwiftGrammer project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>SwiftGrammer</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run SwiftGrammer</string>
-			<key>timeStartedRecording</key>
-			<real>773337507.878111</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run SwiftGrammer</string>
-			<key>uniqueIdentifier</key>
-			<string>49B61BA1-1A4C-4DF0-B2ED-85636481A9C7</string>
-		</dict>
 		<key>87FF4CAB-8F35-455F-BDF8-71C601C149B5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -128,10 +67,10 @@
 			<key>uniqueIdentifier</key>
 			<string>87FF4CAB-8F35-455F-BDF8-71C601C149B5</string>
 		</dict>
-		<key>C09A3435-376E-421A-A280-A3E79D007D41</key>
+		<key>F1498215-B540-4748-8881-5036A83D5F83</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>F722C3D7-57C4-478A-9FFE-5FD67C64C6A1</string>
+			<string>7993EC88-0AA6-4EEA-BD11-B554DD52AC08</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-SwiftGrammer-2025.07.04_17-06-13-+0900.xcresult</string>
+			<string>Run-SwiftGrammer-2025.07.05_23-23-12-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,26 +120,26 @@
 			<key>signature</key>
 			<string>Run SwiftGrammer</string>
 			<key>timeStartedRecording</key>
-			<real>773309173.19549501</real>
+			<real>773418192.62914598</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run SwiftGrammer</string>
 			<key>uniqueIdentifier</key>
-			<string>C09A3435-376E-421A-A280-A3E79D007D41</string>
+			<string>F1498215-B540-4748-8881-5036A83D5F83</string>
 		</dict>
-		<key>CCEA2323-D435-45EF-AE6C-B5C6666AEDBC</key>
+		<key>F5FC6D00-40B2-4E90-B19A-02EB2D664FC2</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>ADC1C950-A8D4-4B77-AF13-007477482BDE</string>
+			<string>D0F54A64-5421-453F-AE0D-9FD0C90DF16B</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -213,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-SwiftGrammer-2025.07.05_15-02-31-+0900.xcresult</string>
+			<string>Run-SwiftGrammer-2025.07.05_23-08-14-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -223,11 +162,11 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -242,18 +181,18 @@
 			<key>signature</key>
 			<string>Run SwiftGrammer</string>
 			<key>timeStartedRecording</key>
-			<real>773388151.33382404</real>
+			<real>773417294.76479006</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run SwiftGrammer</string>
 			<key>uniqueIdentifier</key>
-			<string>CCEA2323-D435-45EF-AE6C-B5C6666AEDBC</string>
+			<string>F5FC6D00-40B2-4E90-B19A-02EB2D664FC2</string>
 		</dict>
-		<key>FC9647B8-589D-4483-B11F-321C3F3CBB70</key>
+		<key>F8E088D3-FA61-4F29-A65D-3DA5AB2451AD</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>106971C2-34BB-4DA2-950F-6BA1A409DC75</string>
+			<string>C85663D0-D1FC-4278-AB09-1D087D96BCAA</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -274,7 +213,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-SwiftGrammer-2025.07.05_00-54-27-+0900.xcresult</string>
+			<string>Run-SwiftGrammer-2025.07.05_23-08-21-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -303,13 +242,13 @@
 			<key>signature</key>
 			<string>Run SwiftGrammer</string>
 			<key>timeStartedRecording</key>
-			<real>773337267.53843105</real>
+			<real>773417301.28575099</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run SwiftGrammer</string>
 			<key>uniqueIdentifier</key>
-			<string>FC9647B8-589D-4483-B11F-321C3F3CBB70</string>
+			<string>F8E088D3-FA61-4F29-A65D-3DA5AB2451AD</string>
 		</dict>
 	</dict>
 </dict>

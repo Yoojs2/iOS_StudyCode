@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>420D0DEB-DC13-4417-9775-B7AF566147A4</key>
+		<key>3092CB58-D7CC-4803-952F-E43450FDDE6A</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>1804BE47-C64A-474B-BD93-FDD31668C19C</string>
+			<string>2CA902CE-5801-4B86-8B96-53EAE118471E</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-ImageView2-2025.07.02_15-16-09-+0900.xcresult</string>
+			<string>Run-ImageView2-2025.07.05_17-39-15-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -40,11 +40,11 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -59,87 +59,26 @@
 			<key>signature</key>
 			<string>Run ImageView2</string>
 			<key>timeStartedRecording</key>
-			<real>773129769.42769396</real>
+			<real>773397555.18097794</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run ImageView2</string>
 			<key>uniqueIdentifier</key>
-			<string>420D0DEB-DC13-4417-9775-B7AF566147A4</string>
+			<string>3092CB58-D7CC-4803-952F-E43450FDDE6A</string>
 		</dict>
-		<key>5E72DE1A-A4CD-4AF3-B8F3-F3B445BEC1AA</key>
+		<key>385E62E6-F27C-4BF1-8D20-E9F763B3DFFC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>3ED78759-A50B-4ECC-B797-224D2B404708</string>
+			<string>4DA58D9C-0E3A-444C-AC21-8FC8CCB84494</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>2</integer>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-ImageView2-2025.07.02_15-12-12-+0900.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>2</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ImageView2 project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ImageView2</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ImageView2</string>
-			<key>timeStartedRecording</key>
-			<real>773129532.830742</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run ImageView2</string>
-			<key>uniqueIdentifier</key>
-			<string>5E72DE1A-A4CD-4AF3-B8F3-F3B445BEC1AA</string>
-		</dict>
-		<key>8E4458B2-ABEC-4F9B-8CAD-DDF03005422E</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>43E93022-21FC-4DB6-973E-142C4B5968F6</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -152,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-ImageView2-2025.07.02_15-19-15-+0900.xcresult</string>
+			<string>Run-ImageView2-2025.07.05_17-39-07-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -162,11 +101,11 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
@@ -181,13 +120,13 @@
 			<key>signature</key>
 			<string>Run ImageView2</string>
 			<key>timeStartedRecording</key>
-			<real>773129955.57673204</real>
+			<real>773397547.76011705</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run ImageView2</string>
 			<key>uniqueIdentifier</key>
-			<string>8E4458B2-ABEC-4F9B-8CAD-DDF03005422E</string>
+			<string>385E62E6-F27C-4BF1-8D20-E9F763B3DFFC</string>
 		</dict>
 		<key>BD8AFBC0-4DEF-4A08-B092-4AD97409C041</key>
 		<dict>

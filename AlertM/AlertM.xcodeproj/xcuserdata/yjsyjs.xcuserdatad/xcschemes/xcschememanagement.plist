@@ -2,9 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>LastAccessedDate</key>
-	<date>2025-07-05T08:39:15Z</date>
-	<key>WorkspacePath</key>
-	<string>/Volumes/SourceCode/iOS/Study/iOS_StudyCode/ImageView2/ImageView2.xcodeproj</string>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AlertM.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>
